@@ -5,35 +5,42 @@ slug: checklist
 authors: jakimfett, sesshirecat
 summary: A checklist for short duration activism events.
 
-* $20-$50 in small bills
-* 3-5 days of any prescription medication
-* An epi pen (in a sealed container)
+Activism requires some preparation.
+
 * Backpack or shoulder bag for carrying supplies
-* Benedryl (in sealed, labeled plastic bag)
+* 5-14 days of medications  
+* An epi pen (in a sealed container)  
+* An antihistamine (in sealed, labeled plastic bag)
 * Cell phone extra battery or charger+cord
-* Clean bandanna (if concerned about tear gas)
-* Clean change of clothing, sealed in an airtight container (if concerned about tear gas)
-* De-escalation guidelines
 * Emergency blanket
-* Emergency contact info
-* Eye protection (if concerned about chemicals)
-* Fingerless gloves (if windy or cold)
 * First aid kit
 * Flashlight
 * Granola bars
 * Handheld notebook(s)
 * Hand sanitizer 
 * Ibuprofen (in sealed, labeled plastic bag)
-* Identification holder
-* Law enforcement interaction script
-* Lightweight jacket
-* Paper towels
-* Passport/document holder (for identification/cash)
+* Paper towels or a couple of rags
 * Pen(s)
-* Secure cell phone
 * Sewing kit
 * Sharpies
-* Sun hat (if the forecast is for sun)
-* Sunscreen (if the forecast is for sun)
 * Water bottle 
 * Wet wipes
+
+Seasonally, you'll want to include:
+* Sun/rain hat
+* Sunscreen
+* Umbrella
+* Extra windbreaker/jacket
+* Fingerless gloves (if windy or cold)
+
+For westernized society, you may want to include the following:
+
+* $20-$50 in small bills
+* Prepaid cell phone
+* Distributeables (eg [ACLU foldables](https://shop.aclu.org/product/ACLU-Know-Your-Rights-Cards-Variety-Pack))
+* Law enforcement interaction script
+* Eye protection (if concerned about chemicals)
+* Clean bandanna (or filter mask if concerned about tear gas)
+* Clean change of clothing, sealed in an airtight container (if concerned about tear gas)
+* Passport/identification/document/cash holder
+* Emergency contact info for your legal advisor, if any.
