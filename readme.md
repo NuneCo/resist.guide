@@ -1,5 +1,7 @@
 # resist.guide
-The resistance guide for modern activists.
+Neither the guide we needed,  
+nor the one we deserved,  
+but what we found among the rubble.
 
 # todo
 * Add a code of conduct.
@@ -16,6 +18,10 @@ Special thanks is extended to the following organizations and individuals:
 * The many members of the [Pelican](https://blog.getpelican.com/) project.
 * [Wikipedia](https://www.wikipedia.org/) for the [solidarity fist logo](https://commons.wikimedia.org/wiki/File:Fist.svg).
 * Last but not least, the open source community for providing the tools to freely make this project.
+
+# online
+
+See [resist.guide](https://resist.guide/) or the [archive](https://archive.ph/resist.guide) for the live view.
 
 # license
 Licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
