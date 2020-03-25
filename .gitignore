@@ -10,3 +10,6 @@ output/
 # Packages
 *.egg
 *.egg-info
+
+# temp files
+*~

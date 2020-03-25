@@ -8,7 +8,7 @@ save_as: index.html
 
 This is a call for a general strike.
 
-This organization effort resides in the Cascadia Bioregion.  
+This organization effort resides in the [Cascadia Bioregion](https://en.wikipedia.org/wiki/Cascadia_(bioregion)).  
 _Please ask your local labour union about participating._
 
 ---

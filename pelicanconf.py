@@ -5,8 +5,8 @@ from __future__ import unicode_literals
 # Basic site information
 AUTHOR = 'resist.guide'
 SITETITLE = AUTHOR
-SITESUBTITLE = 'A resistance guide for modern activists.'
-SITEDESCRIPTION = 'A resistance guide for modern activists.'
+SITESUBTITLE = 'resist.guide encourages hindsight'
+SITEDESCRIPTION = '...it is 2020 after all.'
 SITENAME = 'resist.guide'
 SITEURL = 'https://resist.guide'
 
@@ -19,7 +19,7 @@ USE_LESS = True
 
 # OpenGraph
 OG_LOCALE = 'en_US'
-OG_IMAGE = SITEURL + '/logo_og.png'
+OG_IMAGE = SITEURL + '/solidarity.png'
 
 # Time and date
 TIMEZONE = 'America/Los_Angeles'
